@@ -1,0 +1,1 @@
+Implemente un programa en Go llamado countwords.go que, para cada fichero de texto que se le pasa como argumento, imprima por su salida todas las palabras que aparecen en esos ficheros y el número de apariciones. La lista de palabras tiene que estar ordenada alfabéticamente.

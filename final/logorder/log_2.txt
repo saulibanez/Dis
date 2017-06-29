@@ -1,0 +1,98 @@
+{"Map":{"log1":1},"Id":"log1","Log":"Escribe log1 con id: 0"}
+{"Map":{"log1":2},"Id":"log1","Log":"Escribe log1 con id: 1"}
+{"Map":{"log1":3},"Id":"log1","Log":"Escribe log1 con id: 2"}
+{"Map":{"log1":4},"Id":"log1","Log":"Termina de escribir log1"}
+{"Map":{"log2":1},"Id":"log2","Log":"Escribe log2 con id: 0"}
+{"Map":{"log2":2},"Id":"log2","Log":"Escribe log2 con id: 1"}
+{"Map":{"log2":3},"Id":"log2","Log":"Escribe log2 con id: 2"}
+{"Map":{"log2":4},"Id":"log2","Log":"Escribe log2 con id: 3"}
+{"Map":{"log2":5},"Id":"log2","Log":"Escribe log2 con id: 4"}
+{"Map":{"log2":6},"Id":"log2","Log":"Termina de escribir log2"}
+{"Map":{"log3":1},"Id":"log3","Log":"Escribe log3 con id: 0"}
+{"Map":{"log3":2},"Id":"log3","Log":"Escribe log3 con id: 1"}
+{"Map":{"log3":3},"Id":"log3","Log":"Termina de escribir log3"}
+{"Map":{"log_Add":1},"Id":"log_Add","Log":""}
+{"Map":{"log1":1},"Id":"log1","Log":"Escribe log1 con id: 0"}
+{"Map":{"log1":2},"Id":"log1","Log":"Escribe log1 con id: 1"}
+{"Map":{"log1":3},"Id":"log1","Log":"Escribe log1 con id: 2"}
+{"Map":{"log1":4},"Id":"log1","Log":"Termina de escribir log1"}
+{"Map":{"log2":1},"Id":"log2","Log":"Escribe log2 con id: 0"}
+{"Map":{"log2":2},"Id":"log2","Log":"Escribe log2 con id: 1"}
+{"Map":{"log2":3},"Id":"log2","Log":"Escribe log2 con id: 2"}
+{"Map":{"log2":4},"Id":"log2","Log":"Escribe log2 con id: 3"}
+{"Map":{"log2":5},"Id":"log2","Log":"Escribe log2 con id: 4"}
+{"Map":{"log2":6},"Id":"log2","Log":"Termina de escribir log2"}
+{"Map":{"log3":1},"Id":"log3","Log":"Escribe log3 con id: 0"}
+{"Map":{"log3":2},"Id":"log3","Log":"Escribe log3 con id: 1"}
+{"Map":{"log3":3},"Id":"log3","Log":"Termina de escribir log3"}
+{"Map":{"log_Add":1},"Id":"log_Add","Log":""}
+{"Map":{"log1":1},"Id":"log1","Log":"Escribe log1 con id: 0"}
+{"Map":{"log1":2},"Id":"log1","Log":"Escribe log1 con id: 1"}
+{"Map":{"log1":3},"Id":"log1","Log":"Escribe log1 con id: 2"}
+{"Map":{"log1":4},"Id":"log1","Log":"Termina de escribir log1"}
+{"Map":{"log2":1},"Id":"log2","Log":"Escribe log2 con id: 0"}
+{"Map":{"log2":2},"Id":"log2","Log":"Escribe log2 con id: 1"}
+{"Map":{"log2":3},"Id":"log2","Log":"Escribe log2 con id: 2"}
+{"Map":{"log2":4},"Id":"log2","Log":"Escribe log2 con id: 3"}
+{"Map":{"log2":5},"Id":"log2","Log":"Escribe log2 con id: 4"}
+{"Map":{"log2":6},"Id":"log2","Log":"Termina de escribir log2"}
+{"Map":{"log3":1},"Id":"log3","Log":"Escribe log3 con id: 0"}
+{"Map":{"log3":2},"Id":"log3","Log":"Escribe log3 con id: 1"}
+{"Map":{"log3":3},"Id":"log3","Log":"Termina de escribir log3"}
+{"Map":{"log_Add":1},"Id":"log_Add","Log":""}
+{"Map":{"log1":1},"Id":"log1","Log":"Escribe log1 con id: 0"}
+{"Map":{"log1":2},"Id":"log1","Log":"Escribe log1 con id: 1"}
+{"Map":{"log1":3},"Id":"log1","Log":"Escribe log1 con id: 2"}
+{"Map":{"log1":4},"Id":"log1","Log":"Termina de escribir log1"}
+{"Map":{"log2":1},"Id":"log2","Log":"Escribe log2 con id: 0"}
+{"Map":{"log2":2},"Id":"log2","Log":"Escribe log2 con id: 1"}
+{"Map":{"log2":3},"Id":"log2","Log":"Escribe log2 con id: 2"}
+{"Map":{"log2":4},"Id":"log2","Log":"Escribe log2 con id: 3"}
+{"Map":{"log2":5},"Id":"log2","Log":"Escribe log2 con id: 4"}
+{"Map":{"log2":6},"Id":"log2","Log":"Termina de escribir log2"}
+{"Map":{"log3":1},"Id":"log3","Log":"Escribe log3 con id: 0"}
+{"Map":{"log3":2},"Id":"log3","Log":"Escribe log3 con id: 1"}
+{"Map":{"log3":3},"Id":"log3","Log":"Termina de escribir log3"}
+{"Map":{"log_Add":1},"Id":"log_Add","Log":""}
+{"Map":{"log1":1},"Id":"log1","Log":"Escribe log1 con id: 0"}
+{"Map":{"log1":2},"Id":"log1","Log":"Escribe log1 con id: 1"}
+{"Map":{"log1":3},"Id":"log1","Log":"Escribe log1 con id: 2"}
+{"Map":{"log1":4},"Id":"log1","Log":"Termina de escribir log1"}
+{"Map":{"log2":1},"Id":"log2","Log":"Escribe log2 con id: 0"}
+{"Map":{"log2":2},"Id":"log2","Log":"Escribe log2 con id: 1"}
+{"Map":{"log2":3},"Id":"log2","Log":"Escribe log2 con id: 2"}
+{"Map":{"log2":4},"Id":"log2","Log":"Escribe log2 con id: 3"}
+{"Map":{"log2":5},"Id":"log2","Log":"Escribe log2 con id: 4"}
+{"Map":{"log2":6},"Id":"log2","Log":"Termina de escribir log2"}
+{"Map":{"log3":1},"Id":"log3","Log":"Escribe log3 con id: 0"}
+{"Map":{"log3":2},"Id":"log3","Log":"Escribe log3 con id: 1"}
+{"Map":{"log3":3},"Id":"log3","Log":"Termina de escribir log3"}
+{"Map":{"log_Add":1},"Id":"log_Add","Log":""}
+{"Map":{"log1":1},"Id":"log1","Log":"Escribe log1 con id: 0"}
+{"Map":{"log1":2},"Id":"log1","Log":"Escribe log1 con id: 1"}
+{"Map":{"log1":3},"Id":"log1","Log":"Escribe log1 con id: 2"}
+{"Map":{"log1":4},"Id":"log1","Log":"Termina de escribir log1"}
+{"Map":{"log2":1},"Id":"log2","Log":"Escribe log2 con id: 0"}
+{"Map":{"log2":2},"Id":"log2","Log":"Escribe log2 con id: 1"}
+{"Map":{"log2":3},"Id":"log2","Log":"Escribe log2 con id: 2"}
+{"Map":{"log2":4},"Id":"log2","Log":"Escribe log2 con id: 3"}
+{"Map":{"log2":5},"Id":"log2","Log":"Escribe log2 con id: 4"}
+{"Map":{"log2":6},"Id":"log2","Log":"Termina de escribir log2"}
+{"Map":{"log3":1},"Id":"log3","Log":"Escribe log3 con id: 0"}
+{"Map":{"log3":2},"Id":"log3","Log":"Escribe log3 con id: 1"}
+{"Map":{"log3":3},"Id":"log3","Log":"Termina de escribir log3"}
+{"Map":{"log_Add":1},"Id":"log_Add","Log":""}
+{"Map":{"log1":1},"Id":"log1","Log":"Escribe log1 con id: 0"}
+{"Map":{"log1":2},"Id":"log1","Log":"Escribe log1 con id: 1"}
+{"Map":{"log1":3},"Id":"log1","Log":"Escribe log1 con id: 2"}
+{"Map":{"log1":4},"Id":"log1","Log":"Termina de escribir log1"}
+{"Map":{"log2":1},"Id":"log2","Log":"Escribe log2 con id: 0"}
+{"Map":{"log2":2},"Id":"log2","Log":"Escribe log2 con id: 1"}
+{"Map":{"log2":3},"Id":"log2","Log":"Escribe log2 con id: 2"}
+{"Map":{"log2":4},"Id":"log2","Log":"Escribe log2 con id: 3"}
+{"Map":{"log2":5},"Id":"log2","Log":"Escribe log2 con id: 4"}
+{"Map":{"log2":6},"Id":"log2","Log":"Termina de escribir log2"}
+{"Map":{"log3":1},"Id":"log3","Log":"Escribe log3 con id: 0"}
+{"Map":{"log3":2},"Id":"log3","Log":"Escribe log3 con id: 1"}
+{"Map":{"log3":3},"Id":"log3","Log":"Termina de escribir log3"}
+{"Map":{"log_Add":1},"Id":"log_Add","Log":""}

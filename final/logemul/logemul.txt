@@ -1,0 +1,36 @@
+{"Map":{"logemul":1},"Id":"logemul","Log":"th 0: Hola, pequeño Padawan"}
+{"Map":{"logemul":1},"Id":"logemul","Log":"th 1: Hola, pequeño Padawan"}
+{"Map":{"logemul":1},"Id":"logemul","Log":"th 2: Hola, pequeño Padawan"}
+{"Map":{"logemul":2},"Id":"logemul","Log":"th 0: La estrella de la muerte está operativa"}
+{"Map":{"logemul":2},"Id":"logemul","Log":"th 1: La estrella de la muerte está operativa"}
+{"Map":{"logemul":2},"Id":"logemul","Log":"th 2: La estrella de la muerte está operativa"}
+{"Map":{"logemul":1},"Id":"logemul","Log":"th 0: Hola, pequeño Padawan"}
+{"Map":{"logemul":1},"Id":"logemul","Log":"th 1: Hola, pequeño Padawan"}
+{"Map":{"logemul":2},"Id":"logemul","Log":"th 0: La estrella de la muerte está operativa"}
+{"Map":{"logemul":2},"Id":"logemul","Log":"th 1: La estrella de la muerte está operativa"}
+{"Map":{"logemul":1},"Id":"logemul","Log":"th 2: Hola, pequeño Padawan"}
+{"Map":{"logemul":2},"Id":"logemul","Log":"th 2: La estrella de la muerte está operativa"}
+{"Map":{"logemul":1},"Id":"logemul","Log":"th 0: Hola, pequeño Padawan"}
+{"Map":{"logemul":2},"Id":"logemul","Log":"th 0: La estrella de la muerte está operativa"}
+{"Map":{"logemul":1},"Id":"logemul","Log":"th 1: Hola, pequeño Padawan"}
+{"Map":{"logemul":2},"Id":"logemul","Log":"th 1: La estrella de la muerte está operativa"}
+{"Map":{"logemul":1},"Id":"logemul","Log":"th 2: Hola, pequeño Padawan"}
+{"Map":{"logemul":2},"Id":"logemul","Log":"th 2: La estrella de la muerte está operativa"}
+{"Map":{"logemul":1},"Id":"logemul","Log":"th 0: Hola, pequeño Padawan"}
+{"Map":{"logemul":1},"Id":"logemul","Log":"th 1: Hola, pequeño Padawan"}
+{"Map":{"logemul":1},"Id":"logemul","Log":"th 2: Hola, pequeño Padawan"}
+{"Map":{"logemul":2},"Id":"logemul","Log":"th 0: La estrella de la muerte está operativa"}
+{"Map":{"logemul":2},"Id":"logemul","Log":"th 1: La estrella de la muerte está operativa"}
+{"Map":{"logemul":2},"Id":"logemul","Log":"th 2: La estrella de la muerte está operativa"}
+{"Map":{"logemul":1},"Id":"logemul","Log":"th 0: Hola, pequeño Padawan"}
+{"Map":{"logemul":1},"Id":"logemul","Log":"th 1: Hola, pequeño Padawan"}
+{"Map":{"logemul":2},"Id":"logemul","Log":"th 0: La estrella de la muerte está operativa"}
+{"Map":{"logemul":1},"Id":"logemul","Log":"th 2: Hola, pequeño Padawan"}
+{"Map":{"logemul":2},"Id":"logemul","Log":"th 1: La estrella de la muerte está operativa"}
+{"Map":{"logemul":2},"Id":"logemul","Log":"th 2: La estrella de la muerte está operativa"}
+{"Map":{"logemul":1},"Id":"logemul","Log":"th 0: Hola, pequeño Padawan"}
+{"Map":{"logemul":2},"Id":"logemul","Log":"th 0: La estrella de la muerte está operativa"}
+{"Map":{"logemul":1},"Id":"logemul","Log":"th 1: Hola, pequeño Padawan"}
+{"Map":{"logemul":2},"Id":"logemul","Log":"th 1: La estrella de la muerte está operativa"}
+{"Map":{"logemul":1},"Id":"logemul","Log":"th 2: Hola, pequeño Padawan"}
+{"Map":{"logemul":2},"Id":"logemul","Log":"th 2: La estrella de la muerte está operativa"}

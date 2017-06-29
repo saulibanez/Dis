@@ -1,0 +1,5 @@
+{"Map":{"testlogs":1},"Id":"logs_prueba","Log":"log 1"}
+{"Map":{"testlogs":2},"Id":"logs_prueba","Log":"log 2"}
+{"Map":{"testlogs":4},"Id":"logs_prueba","Log":"log 4"}
+{"Map":{"testlogs":5},"Id":"logs_prueba","Log":"log 5"}
+{"Map":{"testlogs":3},"Id":"logs_prueba","Log":"log 3"}
