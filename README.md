@@ -1,3 +1,3 @@
-#Sistemas Distribuidos
+# Sistemas Distribuidos
 
 Programación en C y go
