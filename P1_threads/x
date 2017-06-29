@@ -1,0 +1,6 @@
+#!/bin/bash
+
+gcc -g -Wall -Wshadow -c threads.c
+gcc -g -Wall -Wshadow -c main.c
+
+gcc -o main main.o threads.o
